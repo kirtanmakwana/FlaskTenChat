@@ -36,7 +36,7 @@ The chatbot is designed to integrate seamlessly with web applications. Flask act
 
 Below is a demo image showcasing the chatbot's integration with a simple web application:
 
-![Chatbot Demo](path/to/your/image)
+![FlaskTen Chatbot](Capture.PNG)
 
 ## 4. Usage
 
