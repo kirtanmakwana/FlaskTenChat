@@ -17,15 +17,20 @@ The chatbot is designed to integrate seamlessly with web applications. Flask act
 
 ### Steps to Integrate:
 1. Clone this repository.
+   
 2. Install the necessary dependencies by running:
    ```bash
    pip install -r requirements.txt
    ```
-3. Start the Flask server using the command:
+3. Run Model_training.py File for Model Training :
+   ```bash
+   python model_training.py
+   ```
+4. Start the Flask server using the command:
    ```bash
    python app.py
    ```
-4. Access the chatbot on your browser by visiting `http://localhost:5000`.
+5. Access the chatbot on your browser by visiting `http://localhost:5000`.
 
 ### Web App Demo
 
